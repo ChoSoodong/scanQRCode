@@ -1,10 +1,8 @@
-//
-//  SDQRCodeScanController.m
-//  AlphaPay
-//
-//  Created by xialan on 2019/2/18.
-//  Copyright © 2019 HARAM. All rights reserved.
-//
+
+
+
+
+
 
 #import "SDQRCodeScanController.h"
 #import "SGQRCode.h"
